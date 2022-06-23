@@ -1,12 +1,12 @@
 #
-<p align="center">
+<center>
 ```
  __    ___            __      __          __        ___           
 / _` |  |  |__| |  | |__)    |__) \ /    / _` |    |__  |\ | |\ | 
 \__> |  |  |  | \__/ |__)    |__)  |     \__> |___ |___ | \| | \| 
 
 ```
-</p>
+</center>
 <!--
 **replicant0wnz/replicant0wnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
