@@ -1,6 +1,4 @@
-# <p align="center">
-glenn's github
-</p>
+# glenn's github
 
 <!--
 **replicant0wnz/replicant0wnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
