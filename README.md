@@ -1,4 +1,11 @@
-### Hi there 👋
+#
+```
+       _ _   _        _      _                _               
+  __ _(_) |_| |_ _  _| |__  | |__ _  _   __ _| |___ _ _  _ _  
+ / _` | |  _| ' \ || | '_ \ | '_ \ || | / _` | / -_) ' \| ' \ 
+ \__, |_|\__|_||_\_,_|_.__/ |_.__/\_, | \__, |_\___|_||_|_||_|
+ |___/                            |__/  |___/
+```
 
 <!--
 **replicant0wnz/replicant0wnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
