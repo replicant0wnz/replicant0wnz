@@ -10,8 +10,9 @@
 
 ### [ecr-template](../../../ecr-template)
 <img src="https://repository-images.githubusercontent.com/506043534/2a6e120c-bd26-4ea9-99f0-2e42431a47b4" width="200">
+
 Template for deploying Docker containers to Amazon Elastic Container 
-Registry. It allows you to either deploy locally via the command line or by Github Actions.
+Registry. It allows you to either deploy locally via the command line or Github Actions.
 
 ---
 
