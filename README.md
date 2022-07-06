@@ -1,13 +1,10 @@
-# Personal blog
+# Social Links
 
-```
- __     __                 __                    __                      
-|  |--.|  |.-----..-----. |  |--..--.--. .-----.|  |.-----..-----..-----.
-|  _  ||  ||  _  ||  _  | |  _  ||  |  | |  _  ||  ||  -__||     ||     |
-|_____||__||_____||___  | |_____||___  | |___  ||__||_____||__|__||__|__|
-                  |_____|        |_____| |_____|                         
+### ‡ [blog by glenn](https://dronemusic.co/blog) ‡
+### ‡ [Drone Music](https://www.dronemusic.co) ‡
+### ‡ [Twitter](https://twitter.com/replicant0wnz) ‡
 
-```
+
 
 # Active projects
 
