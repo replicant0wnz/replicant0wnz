@@ -2,7 +2,11 @@
 
 # Active projects
 
-<img src="https://repository-images.githubusercontent.com/506043534/2a6e120c-bd26-4ea9-99f0-2e42431a47b4" width="100">
+### [ecr-template](ecr-template)
+<img src="https://repository-images.githubusercontent.com/506043534/2a6e120c-bd26-4ea9-99f0-2e42431a47b4" width="200">
+Template for deploying Docker containers to [Amazon Elastic Container 
+Registry](https://aws.amazon.com/ecr) (ECR). It allows you to either deploy 
+locally via the command line or by [Github Actions](https://github.com/actions).
 
 <!--
 **replicant0wnz/replicant0wnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
