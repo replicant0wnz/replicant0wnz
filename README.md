@@ -3,7 +3,7 @@
 ### ‡ [blog by glenn](https://dronemusic.co/blog) ‡
 ### ‡ [Drone Music](https://www.dronemusic.co) ‡
 ### ‡ [Twitter](https://twitter.com/replicant0wnz) ‡
-
+### ‡ [Linkedin](https://www.linkedin.com/in/replicant) ‡
 
 
 # Active projects
@@ -21,16 +21,9 @@ locally via the command line or by [Github Actions](https://github.com/actions).
 
 MÖRK BORG bot for Discord
 
-<!--
-**replicant0wnz/replicant0wnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### [blog](../../../blog)
+<img src="https://repository-images.githubusercontent.com/500441736/cd499424-32be-46e7-8c90-837de8f6b5e4" width="200">
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Source for me personal [blog](https://dronemusic.co/blog)
