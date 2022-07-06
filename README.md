@@ -1,5 +1,3 @@
-<h1 align="center" style="margin-top: 0px;">glenn's github</h1>
-
 # Active projects
 
 ### [ecr-template](../../../ecr-template)
