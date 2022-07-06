@@ -10,6 +10,7 @@ locally via the command line or by [Github Actions](https://github.com/actions).
 
 ### [Verhu](../../../verhu)
 <img src="https://repository-images.githubusercontent.com/504374164/6fa03ba0-7052-4d1f-9eac-6710dad1a17b" width="200">
+
 MÖRK BORG bot for Discord
 
 <!--
