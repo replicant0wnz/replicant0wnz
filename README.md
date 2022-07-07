@@ -8,13 +8,11 @@
 
 # Active projects
 
-### [ecr-template](../../../ecr-template)
-<img src="https://repository-images.githubusercontent.com/506043534/2a6e120c-bd26-4ea9-99f0-2e42431a47b4" width="200">
-
-Template for deploying Docker containers to Amazon Elastic Container 
-Registry. It allows you to either deploy locally via the command line or Github Actions.
-
----
+|---------------------------------------|---------------------------------------|
+| ### [ecr-template](../../../ecr-template) | ### [Verhu](../../../verhu)
+| <img src="https://repository-images.githubusercontent.com/506043534/2a6e120c-bd26-4ea9-99f0-2e42431a47b4" width="200"> | <img src="https://repository-images.githubusercontent.com/504374164/6fa03ba0-7052-4d1f-9eac-6710dad1a17b" width="200"> |
+| Template for deploying Docker containers to Amazon Elastic Container Registry. It allows you to either deploy locally via the command line or Github Actions. | MÖRK BORG bot for Discord |
+|---------------------------------------|---------------------------------------|
 
 ### [Verhu](../../../verhu)
 <img src="https://repository-images.githubusercontent.com/504374164/6fa03ba0-7052-4d1f-9eac-6710dad1a17b" width="200">
